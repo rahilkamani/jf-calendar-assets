@@ -1,0 +1,17 @@
+{
+  "month": "October",
+  "events": [
+    {
+      "date": 25,
+      "title": "Martyrdom of Janabe Fatema Zahra (s)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 27,
+      "title": "Birthday of Imam Zainul Abedin (a)",
+      "category": "wiladat",
+      "icon": "🎉"
+    }
+  ]
+}
