@@ -1,0 +1,23 @@
+{
+  "month": "November",
+  "events": [
+    {
+      "date": 14,
+      "title": "Martyrdom of Janabe Fatema Zahra (s)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 24,
+      "title": "Death of Janabe Ummul Baneen (s)",
+      "category": "historical",
+      "icon": "📜"
+    },
+    {
+      "date": 24,
+      "title": "Martyrdom of Hazrat Abbas (a)",
+      "category": "shahadat",
+      "icon": "⚫"
+    }
+  ]
+}
