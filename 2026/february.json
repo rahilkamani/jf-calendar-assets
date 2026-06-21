@@ -1,0 +1,35 @@
+{
+  "month": "February",
+  "events": [
+    {
+      "date": 4,
+      "title": "Birthday of Imam Mahdi (a)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 17,
+      "title": "No Eclipse in Mumbai",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 18,
+      "title": "New Moon",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 19,
+      "title": "Beginning of Holy Month of Ramazan",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 28,
+      "title": "Death of Janabe Khadijatul Kubra (s)",
+      "category": "shahadat",
+      "icon": "⚫"
+    }
+  ]
+}
