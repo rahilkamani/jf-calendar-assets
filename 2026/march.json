@@ -1,0 +1,65 @@
+{
+  "month": "March",
+  "events": [
+    {
+      "date": 5,
+      "title": "Birthday of Imam Hasan (a)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 8,
+      "title": "Shab-e-Qadr",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 9,
+      "title": "Yaum-e-Zarbat Imam Ali (a)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 10,
+      "title": "Shab-e-Qadr",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 11,
+      "title": "Martyrdom of Imam Ali (a)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 12,
+      "title": "Shab-e-Qadr",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 13,
+      "title": "Holy Qur'an revealed upon Prophet Muhammad (s)",
+      "category": "historical",
+      "icon": "📜"
+    },
+    {
+      "date": 20,
+      "title": "Tahveel-e-Navroz",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 21,
+      "title": "Eid-ul-Fitr",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 28,
+      "title": "Yaume Gham - Destruction of Holy Shrines in Jannatul Baqi",
+      "category": "historical",
+      "icon": "📜"
+    }
+  ]
+}
