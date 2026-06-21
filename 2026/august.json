@@ -1,0 +1,89 @@
+{
+  "month": "August",
+  "events": [
+    {
+      "date": 1,
+      "title": "Martyrdom of Imam Ali Reza (a)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 4,
+      "title": "Arbaeen",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 12,
+      "title": "Martyrdom of Rasool-e-Khuda (s)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 12,
+      "title": "Martyrdom of Imam Hasan (a)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 15,
+      "title": "Martyrdom of Mohsin ibn Ali (a)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 19,
+      "title": "Martyrdom of Janabe Masuma Qum (s)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 22,
+      "title": "Martyrdom of Imam Hasan Askari (a)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 23,
+      "title": "Eid Zahra",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 23,
+      "title": "Imamat Day of Imam-e-Zaman (a)",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 23,
+      "title": "Curse upon the 2nd who was unjust to Muhammad (s) and his Progeny",
+      "category": "historical",
+      "icon": "📜"
+    },
+    {
+      "date": 24,
+      "title": "Wedding Anniversary of Prophet Muhammad (s) and Janabe Khadija (s)",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 28,
+      "title": "Death of Yazid ibn Muawiyah",
+      "category": "historical",
+      "icon": "📜"
+    },
+    {
+      "date": 31,
+      "title": "Birthday of Rasool-e-Khuda (s)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 31,
+      "title": "Birthday of Imam Jafar Sadiq (a)",
+      "category": "wiladat",
+      "icon": "🎉"
+    }
+  ]
+}
