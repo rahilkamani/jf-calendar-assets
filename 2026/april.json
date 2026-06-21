@@ -1,0 +1,23 @@
+{
+  "month": "April",
+  "events": [
+    {
+      "date": 18,
+      "title": "Birthday of Hazrat Abu Talib (a)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 19,
+      "title": "Birthday of Janabe Masuma Qum (s)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 29,
+      "title": "Birthday of Imam Ali Reza (a)",
+      "category": "wiladat",
+      "icon": "🎉"
+    }
+  ]
+}
