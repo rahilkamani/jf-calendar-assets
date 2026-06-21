@@ -1,0 +1,65 @@
+{
+  "month": "June",
+  "events": [
+    {
+      "date": 1,
+      "title": "Birthday of Imam Ali Naqi (a)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 2,
+      "title": "Martyrdom of Janabe Zainab (s)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 4,
+      "title": "Eid-e-Ghadeer",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 9,
+      "title": "Martyrdom of Muslim ibn Aqil's Two Sons",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 10,
+      "title": "Eid-e-Mubahila",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 17,
+      "title": "Ayyam-e-Azaa Begins",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 26,
+      "title": "Ashura",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 26,
+      "title": "Martyrdom of Imam Husain (a)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 26,
+      "title": "Martyrdom of His Companions",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 28,
+      "title": "Ziyarat - 3rd Day of Martyrdom of Imam Husain (a)",
+      "category": "historical",
+      "icon": "📜"
+    }
+  ]
+}
