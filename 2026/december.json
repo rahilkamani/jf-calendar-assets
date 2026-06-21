@@ -1,0 +1,65 @@
+{
+  "month": "December",
+  "events": [
+    {
+      "date": 1,
+      "title": "Birthday of Janabe Fatema Zahra (s)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 2,
+      "title": "Death of Janabe Kulsum binte Ali (a)",
+      "category": "historical",
+      "icon": "📜"
+    },
+    {
+      "date": 3,
+      "title": "Curse upon the 1st who was unjust to Muhammad (s) and his Progeny",
+      "category": "historical",
+      "icon": "📜"
+    },
+    {
+      "date": 7,
+      "title": "Martyrdom of Imam Ali Naqi (a)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 11,
+      "title": "Birthday of Imam Muhammad Baqir (a)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 17,
+      "title": "Birthday of Hazrat Abbas (a)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 20,
+      "title": "Birthday of Imam Muhammad Taqi (a)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 23,
+      "title": "Birthday of Hazrat Imam Ali (a)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 25,
+      "title": "Martyrdom of Imam Sadiq (a)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 30,
+      "title": "Birthday of Janabe Sakina (s)",
+      "category": "wiladat",
+      "icon": "🎉"
+    }
+  ]
+}
