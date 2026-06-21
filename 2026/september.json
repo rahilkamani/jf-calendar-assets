@@ -1,0 +1,23 @@
+{
+  "month": "September",
+  "events": [
+    {
+      "date": 1,
+      "title": "Birthday of Janabe Umm-e-Kulsum (s)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 12,
+      "title": "New Moon",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 20,
+      "title": "Birthday of Imam Hasan Askari (a)",
+      "category": "wiladat",
+      "icon": "🎉"
+    }
+  ]
+}
