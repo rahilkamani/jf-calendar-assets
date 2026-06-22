@@ -3,25 +3,19 @@
   "events": [
     {
       "date": 11,
-      "title": "Martyrdom of Imam Zainul Abedin (a)",
+      "title": "Martyrdom of Imam Zainul Abedin (a) (95H)",
       "category": "shahadat",
       "icon": "⚫"
     },
     {
-      "date": 15,
-      "title": "Beginning of Safar",
-      "category": "occasion",
-      "icon": "🕌"
-    },
-    {
       "date": 22,
-      "title": "Birthday of Imam Musa Kazim (a)",
+      "title": "Birthday of Imam Musa Kazim (a) (128H)",
       "category": "wiladat",
       "icon": "🎉"
     },
     {
       "date": 25,
-      "title": "Martyrdom of Bibi Sakina (s)",
+      "title": "Martyrdom of Bibi Sakina (s) (62H)",
       "category": "shahadat",
       "icon": "⚫"
     }
