@@ -3,63 +3,45 @@
   "events": [
     {
       "date": 1,
-      "title": "Martyrdom of Imam Ali Reza (a)",
+      "title": "Martyrdom of Imam Ali Reza (a) (203H)",
       "category": "shahadat",
       "icon": "⚫"
     },
     {
       "date": 4,
       "title": "Arbaeen",
-      "category": "occasion",
-      "icon": "🕌"
-    },
-    {
-      "date": 12,
-      "title": "Martyrdom of Rasool-e-Khuda (s)",
       "category": "shahadat",
       "icon": "⚫"
     },
     {
       "date": 12,
-      "title": "Martyrdom of Imam Hasan (a)",
+      "title": "Martyrdom of Rasool-e-Khuda (s) (11H) & I.Hasan (a) (50H)",
       "category": "shahadat",
       "icon": "⚫"
     },
     {
       "date": 15,
-      "title": "Martyrdom of Mohsin ibn Ali (a)",
+      "title": "Martyrdom of Mohsin ibn Ali (a) (11H)",
       "category": "shahadat",
       "icon": "⚫"
     },
     {
       "date": 19,
-      "title": "Martyrdom of Janabe Masuma Qum (s)",
+      "title": "Martyrdom of Janabe Masooma Qum (s) (201H)",
       "category": "shahadat",
       "icon": "⚫"
     },
     {
       "date": 22,
-      "title": "Martyrdom of Imam Hasan Askari (a)",
+      "title": "Martyrdom of Imam Hasan Askari (a) (260H)",
       "category": "shahadat",
       "icon": "⚫"
     },
     {
       "date": 23,
-      "title": "Eid Zahra",
+      "title": "Imamat Day of Imam-e-Zaman (a) Eid Zahra O ALLAH! Curse upon the 2nd who was unjust to Muhammad (s) and his Progeny",
       "category": "occasion",
       "icon": "🕌"
-    },
-    {
-      "date": 23,
-      "title": "Imamat Day of Imam-e-Zaman (a)",
-      "category": "occasion",
-      "icon": "🕌"
-    },
-    {
-      "date": 23,
-      "title": "Curse upon the 2nd who was unjust to Muhammad (s) and his Progeny",
-      "category": "historical",
-      "icon": "📜"
     },
     {
       "date": 24,
@@ -69,21 +51,15 @@
     },
     {
       "date": 28,
-      "title": "Death of Yazid ibn Muawiyah",
+      "title": "Death of Yazid ibn Muawiyah (L) (64H)",
       "category": "historical",
       "icon": "📜"
     },
     {
       "date": 31,
-      "title": "Birthday of Rasool-e-Khuda (s)",
+      "title": "Birthday of Rasool-e-Khuda (s) (1 Aamulfil) & Birthday of Imam Jafar Sadiq (a) (83H)",
       "category": "wiladat",
       "icon": "🎉"
     },
-    {
-      "date": 31,
-      "title": "Birthday of Imam Jafar Sadiq (a)",
-      "category": "wiladat",
-      "icon": "🎉"
-    }
   ]
 }
