@@ -3,21 +3,15 @@
   "events": [
     {
       "date": 14,
-      "title": "Martyrdom of Janabe Fatema Zahra (s)",
+      "title": "Martyrdom of Janabe Fatema Zahra (s) (11H) (95-Days)",
       "category": "shahadat",
       "icon": "⚫"
     },
     {
       "date": 24,
-      "title": "Death of Janabe Ummul Baneen (s)",
-      "category": "historical",
-      "icon": "📜"
-    },
-    {
-      "date": 24,
-      "title": "Martyrdom of Hazrat Abbas (a)",
+      "title": "Death of Janabe Ummul Baneen (s) Mother of H. Abbas (a) (64H)",
       "category": "shahadat",
       "icon": "⚫"
-    }
+    },
   ]
 }
