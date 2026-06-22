@@ -3,15 +3,21 @@
   "events": [
     {
       "date": 3,
-      "title": "Birthday of Hazrat Imam Ali (a)",
+      "title": "Birthday of Hazrat Imam Ali (a) (30AF)",
       "category": "wiladat",
       "icon": "🎉"
     },
     {
       "date": 5,
-      "title": "Martyrdom of Imam Sadiq (a)",
+      "title": "Martyrdom of Imam Sadiq (a) (148H)",
       "category": "shahadat",
       "icon": "⚫"
+    },
+    {
+      "date": 10,
+      "title": "Birthday of Janabe Sakina (a) (56H)",
+      "category": "wiladat",
+      "icon": "🎉"
     },
     {
       "date": 12,
@@ -21,19 +27,19 @@
     },
     {
       "date": 14,
-      "title": "Birthday of Ali Asgar (a)",
+      "title": "Birthday of Ali Asgar (a) (60H)",
       "category": "wiladat",
       "icon": "🎉"
     },
     {
       "date": 15,
-      "title": "Martyrdom of Imam Musa Kazim (a)",
+      "title": "Martyrdom of Imam Musa Kazim (a) (183H)",
       "category": "shahadat",
       "icon": "⚫"
     },
     {
       "date": 16,
-      "title": "Death of Hazrat Abu Talib (a)",
+      "title": "Death of Hazrat Abu Talib (a) (50AF) Shab-E-Meraj",
       "category": "shahadat",
       "icon": "⚫"
     },
@@ -45,31 +51,31 @@
     },
     {
       "date": 18,
-      "title": "Imam Husain (a) left Madina for Karbala",
+      "title": "Imam Husain (a) left Madina for Karbala (60H)",
       "category": "historical",
       "icon": "📜"
     },
     {
       "date": 21,
-      "title": "Birthday of Janabe Zainab (s)",
+      "title": "Birthday of Janabe Zainab (s) (5H)",
       "category": "wiladat",
       "icon": "🎉"
     },
     {
       "date": 23,
-      "title": "Birthday of Imam Husain (a)",
+      "title": "Birthday of Imam Husain (a) (4H)",
       "category": "wiladat",
       "icon": "🎉"
     },
     {
       "date": 25,
-      "title": "Birthday of Janabe Ali Akbar (a)",
+      "title": "Birthday of Janabe Ali Akbar (a) (42H)",
       "category": "wiladat",
       "icon": "🎉"
     },
     {
       "date": 27,
-      "title": "Birthday of Janabe Qasim (a)",
+      "title": "Birthday of Janabe Qasim (a) (47H)",
       "category": "wiladat",
       "icon": "🎉"
     }
