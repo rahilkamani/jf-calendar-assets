@@ -3,19 +3,19 @@
   "events": [
     {
       "date": 1,
-      "title": "Birthday of Imam Ali Naqi (a)",
+      "title": "Birthday of Imam Ali Naqi (a) (214H)",
       "category": "wiladat",
       "icon": "🎉"
     },
     {
       "date": 2,
-      "title": "Martyrdom of Janabe Zainab (s)",
+      "title": "Martyrdom of Janabe Zainab (s) (62H)",
       "category": "shahadat",
       "icon": "⚫"
     },
     {
       "date": 4,
-      "title": "Eid-e-Ghadeer",
+      "title": "Eid-e-Ghadeer (10H)",
       "category": "occasion",
       "icon": "🕌"
     },
@@ -34,32 +34,20 @@
     {
       "date": 17,
       "title": "Ayyam-e-Azaa Begins",
-      "category": "occasion",
-      "icon": "🕌"
-    },
-    {
-      "date": 26,
-      "title": "Ashura",
       "category": "shahadat",
       "icon": "⚫"
     },
     {
       "date": 26,
-      "title": "Martyrdom of Imam Husain (a)",
-      "category": "shahadat",
-      "icon": "⚫"
-    },
-    {
-      "date": 26,
-      "title": "Martyrdom of His Companions",
+      "title": "Ashura Martyrdom of Imam Husain (a) & his Companions (61H)",
       "category": "shahadat",
       "icon": "⚫"
     },
     {
       "date": 28,
       "title": "Ziyarat - 3rd Day of Martyrdom of Imam Husain (a)",
-      "category": "historical",
-      "icon": "📜"
+      "category": "shahadat",
+      "icon": "⚫"
     }
   ]
 }
