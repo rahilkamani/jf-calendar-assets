@@ -3,31 +3,31 @@
   "events": [
     {
       "date": 17,
-      "title": "Martyrdom of Imam Muhammad Taqi (a)",
+      "title": "Martyrdom of Imam Mohammad Taqi (a) (220H)",
       "category": "shahadat",
       "icon": "⚫"
     },
     {
       "date": 18,
-      "title": "Wedding Anniversary of Imam Ali (a) and Fatema Zahra (s)",
+      "title": "Wedding Anniversary of Imam Ali (a) and Fatema Zahra (s) (2H)",
       "category": "occasion",
       "icon": "🕌"
     },
     {
-      "date": 26,
-      "title": "Yaume Arafah",
-      "category": "occasion",
-      "icon": "🕌"
-    },
-    {
-      "date": 26,
-      "title": "Martyrdom of Janabe Muslim ibn Aqil (a)",
+      "date": 24,
+      "title": "Martyrdom of Imam Mohammad Baqir (a) (114H)",
       "category": "shahadat",
       "icon": "⚫"
     },
     {
       "date": 26,
-      "title": "Martyrdom of Hani bin Urwah (a)",
+      "title": "Yaume Arafah Martyrdom J. Muslim ibne Aqil & J. Hani bin Urwah (a) (60H)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 26,
+      "title": "Martyrdom of Janabe Muslim ibn Aqil (a)",
       "category": "shahadat",
       "icon": "⚫"
     },
@@ -39,7 +39,7 @@
     },
     {
       "date": 29,
-      "title": "Curse upon the 3rd who was unjust to Muhammad (s) and his Progeny",
+      "title": "Curse upon the 3rd who was unjust to Mohammed (s) and his Progeny (a)",
       "category": "historical",
       "icon": "📜"
     }
