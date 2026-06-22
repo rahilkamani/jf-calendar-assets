@@ -3,19 +3,13 @@
   "events": [
     {
       "date": 1,
-      "title": "Birthday of Janabe Umm-e-Kulsum (s)",
+      "title": "Birthday of Janabe Umm-e-Kulsum (s) (7H)",
       "category": "wiladat",
       "icon": "🎉"
     },
     {
-      "date": 12,
-      "title": "New Moon",
-      "category": "occasion",
-      "icon": "🕌"
-    },
-    {
       "date": 20,
-      "title": "Birthday of Imam Hasan Askari (a)",
+      "title": "Birthday of Imam Hasan Askari (a) (232H)",
       "category": "wiladat",
       "icon": "🎉"
     }
