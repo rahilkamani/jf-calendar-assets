@@ -3,7 +3,7 @@
   "events": [
     {
       "date": 5,
-      "title": "Birthday of Imam Hasan (a)",
+      "title": "Birthday of Imam Hasan (a) (3H)",
       "category": "wiladat",
       "icon": "🎉"
     },
@@ -15,7 +15,7 @@
     },
     {
       "date": 9,
-      "title": "Yaum-e-Zarbat Imam Ali (a)",
+      "title": "Yaum-e-Zarbat Imam Ali (a) wounded by ibne Muljim (40H)",
       "category": "shahadat",
       "icon": "⚫"
     },
@@ -27,7 +27,7 @@
     },
     {
       "date": 11,
-      "title": "Martyrdom of Imam Ali (a)",
+      "title": "Martyrdom of Imam Ali (a) (40H)",
       "category": "shahadat",
       "icon": "⚫"
     },
@@ -57,7 +57,7 @@
     },
     {
       "date": 28,
-      "title": "Yaume Gham - Destruction of Holy Shrines in Jannatul Baqi",
+      "title": "Yaume Gham - Destruction of Holy Shrines in Jannatul Baqi destroyed by Ibne Saud (L) (1344H)" ,
       "category": "historical",
       "icon": "📜"
     }
