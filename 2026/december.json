@@ -3,15 +3,15 @@
   "events": [
     {
       "date": 1,
-      "title": "Birthday of Janabe Fatema Zahra (s)",
+      "title": "Birthday of Janabe Fatema Zahra (s) (46AF)",
       "category": "wiladat",
       "icon": "🎉"
     },
     {
       "date": 2,
-      "title": "Death of Janabe Kulsum binte Ali (a)",
-      "category": "historical",
-      "icon": "📜"
+      "title": "Death of Janabe Kulsum binte Ali (a) (62H)",
+      "category": "shahadat",
+      "icon": "⚫"
     },
     {
       "date": 3,
@@ -21,43 +21,43 @@
     },
     {
       "date": 7,
-      "title": "Martyrdom of Imam Ali Naqi (a)",
+      "title": "Martyrdom of Imam Ali Naqi (a) (254H)",
       "category": "shahadat",
       "icon": "⚫"
     },
     {
       "date": 11,
-      "title": "Birthday of Imam Muhammad Baqir (a)",
+      "title": "Birthday of Imam Mohammed Baqir (a) (57H)",
       "category": "wiladat",
       "icon": "🎉"
     },
     {
       "date": 17,
-      "title": "Birthday of Hazrat Abbas (a)",
+      "title": "Birthday of Hazrat Abbas (a) (26H)",
       "category": "wiladat",
       "icon": "🎉"
     },
     {
       "date": 20,
-      "title": "Birthday of Imam Muhammad Taqi (a)",
+      "title": "Birthday of Imam Muhammad Taqi (a) (195H)",
       "category": "wiladat",
       "icon": "🎉"
     },
     {
       "date": 23,
-      "title": "Birthday of Hazrat Imam Ali (a)",
+      "title": "Birthday of Hazrat Imam Ali (a) (30AF)",
       "category": "wiladat",
       "icon": "🎉"
     },
     {
       "date": 25,
-      "title": "Martyrdom of Imam Sadiq (a)",
+      "title": "Martyrdom of Imam Sadiq (a) (148H)",
       "category": "shahadat",
       "icon": "⚫"
     },
     {
       "date": 30,
-      "title": "Birthday of Janabe Sakina (s)",
+      "title": "Birthday of Janabe Sakina (s) (56H)",
       "category": "wiladat",
       "icon": "🎉"
     }
