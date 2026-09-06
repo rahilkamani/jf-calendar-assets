@@ -1,0 +1,83 @@
+{
+  "month": "March",
+  "events": [
+    {
+      "date": 2,
+      "title": "Imamat Day of Prophet Ibrahim (a)",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 5,
+      "title": "Taurait was revealed upon Prophet Musa (a)",
+      "category": "historical",
+      "icon": "📜"
+    },
+    {
+      "date": 9,
+      "title": "Injeel (Bible) was revealed upon Prophet Eesa (a)",
+      "category": "historical",
+      "icon": "📜"
+    },
+    {
+      "date": 11,
+      "title": "Death of J. Khadijatul Kubra (s) (50AF)",
+      "category": "historical",
+      "icon": "📜"
+    },
+    {
+      "date": 13,
+      "title": "Mookhat: Brotherhood among Ansar and Muhajireen (2H)",
+      "category": "historical",
+      "icon": "📜"
+    },
+    {
+      "date": 15,
+      "title": "Martyrdom of J. Mukhtar (r) (67H)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 16,
+      "title": "Birthday of Imam Hasan (a) (3H)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 18,
+      "title": "Battle of Badr (2H)",
+      "category": "historical",
+      "icon": "📜"
+    },
+    {
+      "date": 20,
+      "title": "Yaume Zarbat Imam Ali (a) wounded by Ibn Muljim (40H)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 21,
+      "title": "Conquest of Makkah (8H)",
+      "category": "historical",
+      "icon": "📜"
+    },
+    {
+      "date": 22,
+      "title": "Martyrdom of Imam Ali (a) (40H)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 24,
+      "title": "Qur'an revealed upon Prophet Muhammad (s)",
+      "category": "historical",
+      "icon": "📜"
+    },
+    {
+      "date": 31,
+      "title": "Eid-ul-Fitr",
+      "category": "occasion",
+      "icon": "🕌"
+    }
+  ]
+}

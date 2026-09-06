@@ -1,0 +1,107 @@
+{
+  "month": "January",
+  "events": [
+    {
+      "date": 2,
+      "title": "Birthday of Imam Mohammed Baqir (a) (57H)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 4,
+      "title": "Martyrdom of Imam Ali Naqi (a) (254H)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 6,
+      "title": "Birthday of Imam Ali Naqi (a) (214H)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 8,
+      "title": "Birthday of Hazrat Abbas (a) (26H)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 11,
+      "title": "Birthday of Imam Mohammed Taqi (a) (195H)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 13,
+      "title": "Death of Janabe Abbas uncle of Prophet (s)",
+      "category": "historical",
+      "icon": "📜"
+    },
+    {
+      "date": 14,
+      "title": "Birthday of Hazrat Hamza (a) (30AF)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 16,
+      "title": "Martyrdom of Imam Sadiq (a) (148H)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 17,
+      "title": "Imamat Day of Imam Musa Kazim (a) (148H)",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 21,
+      "title": "Birthday of J. Sakina (s) (56H)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 23,
+      "title": "O ALLAH! Cursed the 4th who was unjust to Mohammed & his Progeny (a)",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 25,
+      "title": "Birthday of Ali Asgar (a) (60H) & Battle of Khaiber (7H)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 26,
+      "title": "Martyrdom of Imam Musa Kazim (a) (183H)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 27,
+      "title": "Death of Hazrat Abu Talib (a) (50AF)",
+      "category": "historical",
+      "icon": "📜"
+    },
+    {
+      "date": 29,
+      "title": "Imam Husain (a) left Madina for Karbala (60H)",
+      "category": "historical",
+      "icon": "📜"
+    },
+    {
+      "date": 30,
+      "title": "Battle of Tabook (9H)",
+      "category": "historical",
+      "icon": "📜"
+    },
+    {
+      "date": 31,
+      "title": "Birthday of Janabe Zainab (s) (5H)",
+      "category": "wiladat",
+      "icon": "🎉"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "month": "December",
+  "events": [
+    {
+      "date": 5,
+      "title": "Death of J. Ummul Baneen Mother of H. Abbas (a) (64H)",
+      "category": "historical",
+      "icon": "📜"
+    },
+    {
+      "date": 7,
+      "title": "Abdullah ibne Zubair destroyed Ka'ba (96H)",
+      "category": "historical",
+      "icon": "📜"
+    },
+    {
+      "date": 12,
+      "title": "Birthday of J. Fatema Zahra (s) (46AF)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 13,
+      "title": "Death of J. Kulsum binte Ali (a) (62H)",
+      "category": "historical",
+      "icon": "📜"
+    },
+    {
+      "date": 14,
+      "title": "O ALLAH! Cursed the 1st who was unjust to Mohammed & his Progeny (a)",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 18,
+      "title": "Martyrdom of Imam Ali Naqi (a) (254H)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 22,
+      "title": "Birthday of Imam Mohammed Baqir (a) (57H)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 24,
+      "title": "Martyrdom of Imam Ali Naqi (a) (254H)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 26,
+      "title": "Birthday of Imam Ali Naqi (a) (214H)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 28,
+      "title": "Birthday of Hazrat Abbas (a) (26H)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 31,
+      "title": "Birthday of Imam Mohammed Taqi (a) (195H)",
+      "category": "wiladat",
+      "icon": "🎉"
+    }
+  ]
+}

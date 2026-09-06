@@ -1,0 +1,47 @@
+{
+  "month": "September",
+  "events": [
+    {
+      "date": 1,
+      "title": "Martyrdom of Imam Hasan Askari (a) (260H)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 2,
+      "title": "EID ZAHRA O ALLAH! Cursed the 2nd who was unjust to Mohammed & his Progeny (a) & IMAMAT DAY of I. Zaman (a)",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 3,
+      "title": "Wedding anniversary of Prophet Mohammed (s) & J. Khadija (s)",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 7,
+      "title": "Death of Yazid ibn Muawiyah (L) (64H)",
+      "category": "historical",
+      "icon": "📜"
+    },
+    {
+      "date": 8,
+      "title": "Construction of Masjid-e-Quba the 1st Mosque of Islam (1H)",
+      "category": "historical",
+      "icon": "📜"
+    },
+    {
+      "date": 10,
+      "title": "Birthday of H. Rasool-e-Khuda (s) (1 Aamulfil) & I. Jafar Sadiq (a) (83H)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 11,
+      "title": "Birthday of J. Umme Kulsum (s) (7H) & Construction of Masjidun Nabawi (1H)",
+      "category": "wiladat",
+      "icon": "🎉"
+    }
+  ]
+}

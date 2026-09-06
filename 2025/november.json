@@ -1,0 +1,47 @@
+{
+  "month": "November",
+  "events": [
+    {
+      "date": 4,
+      "title": "Death of J. Abdullah ibne Abdul Muttalib (a) Father of Prophet (s)",
+      "category": "historical",
+      "icon": "📜"
+    },
+    {
+      "date": 5,
+      "title": "Martyrdom of J. Fatema Zahra (s) (11H) (75-Days)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 6,
+      "title": "Martyrdom of J. Fatema Zahra (s) (11H) (75-Days)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 7,
+      "title": "Birthday of Imam Zainul Abedin (a) (38H)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 9,
+      "title": "Battle of Jamal (36H) between Imam Ali (a) & Ayesha",
+      "category": "historical",
+      "icon": "📜"
+    },
+    {
+      "date": 19,
+      "title": "Death of Abdul Muttalib (a) Grandfather of Prophet (s) (8AF)",
+      "category": "historical",
+      "icon": "📜"
+    },
+    {
+      "date": 25,
+      "title": "Martyrdom of J. Fatema Zahra (s) (11H) (95-Days)",
+      "category": "shahadat",
+      "icon": "⚫"
+    }
+  ]
+}

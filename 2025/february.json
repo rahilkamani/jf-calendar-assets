@@ -1,0 +1,35 @@
+{
+  "month": "February",
+  "events": [
+    {
+      "date": 2,
+      "title": "Birthday of Imam Husain (a) (4H)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 3,
+      "title": "Birthday of Hazrat Abbas (a) (26H)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 4,
+      "title": "Birthday of Janabe Ali Akbar (a) (42H) & Birthday of Imam Sadiq (a) (38H)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 6,
+      "title": "Birthday of Janabe Qasim (a) (47H)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 14,
+      "title": "Birthday of Imam Mahdi (a) (255H)",
+      "category": "wiladat",
+      "icon": "🎉"
+    }
+  ]
+}

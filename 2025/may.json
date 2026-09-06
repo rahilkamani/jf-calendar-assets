@@ -1,0 +1,41 @@
+{
+  "month": "May",
+  "events": [
+    {
+      "date": 3,
+      "title": "Raising of Ka'ba by Prophet Ibrahim & Ismail (a)",
+      "category": "historical",
+      "icon": "📜"
+    },
+    {
+      "date": 9,
+      "title": "Birthday of Imam Ali Reza (a) (148H)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 21,
+      "title": "Martyrdom of Imam Ali Reza (a) (203H)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 23,
+      "title": "DAHWUL ARZ Creation of Land Birthday of Prophet Ibrahim & Eesa (a)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 27,
+      "title": "Martyrdom of Imam Mohammed Taqi (a) (220H)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 29,
+      "title": "Wedding Anniversary of Imam Ali (a) & Fatema Zahra (s) (2H)",
+      "category": "occasion",
+      "icon": "🕌"
+    }
+  ]
+}

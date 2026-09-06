@@ -1,0 +1,53 @@
+{
+  "month": "July",
+  "events": [
+    {
+      "date": 6,
+      "title": "Ashura Martyrdom of Imam Husain (a) & his Companions (61H)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 8,
+      "title": "Ziyarat 3rd day of Martyrdom of Imam Husain (a)",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 14,
+      "title": "Qibla was changed from Bait Al-Maqdas to Ka'ba (2H)",
+      "category": "historical",
+      "icon": "📜"
+    },
+    {
+      "date": 16,
+      "title": "10th day of Martyrdom of Imam Husain (a)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 21,
+      "title": "Martyrdom of Imam Zainul Abedin (a) (95H)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 26,
+      "title": "20th day of Martyrdom of Imam Husain (a)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 27,
+      "title": "Battle of Siffin (37H) between Imam Ali (a) & Muawiyah",
+      "category": "historical",
+      "icon": "📜"
+    },
+    {
+      "date": 29,
+      "title": "Muslim ibne Aqba entered Ka'ba by the order of Yazid (L) (64H)",
+      "category": "historical",
+      "icon": "📜"
+    }
+  ]
+}

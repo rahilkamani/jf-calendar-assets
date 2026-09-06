@@ -1,0 +1,101 @@
+{
+  "month": "June",
+  "events": [
+    {
+      "date": 2,
+      "title": "Death of H. Abuzar Gheffari (r) (32H)",
+      "category": "historical",
+      "icon": "📜"
+    },
+    {
+      "date": 4,
+      "title": "Martyrdom of Imam Mohammed Baqir (a) (114H)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 5,
+      "title": "Imam Husain (a) left Madina for Karbala (60H)",
+      "category": "historical",
+      "icon": "📜"
+    },
+    {
+      "date": 6,
+      "title": "Yaume Arafah & Martyrdom of Muslim ibn Aqeel & Hani bin Urwah (a) (60H)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 7,
+      "title": "Eid-ul-Azha",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 9,
+      "title": "O ALLAH! Cursed the 3rd who was unjust to Mohammed & his Progeny (a)",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 11,
+      "title": "Miracle of Moon divided into two by Prophet (s)",
+      "category": "historical",
+      "icon": "📜"
+    },
+    {
+      "date": 12,
+      "title": "Birthday of Imam Ali Naqi (a) (214H)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 13,
+      "title": "Martyrdom of Janabe Zainab (s) (62H)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 15,
+      "title": "EID-E-GHADEER H. Prophet (s) Khilafat of Ali (a) (10H) People requested H. Ali (a) to take the charge of Khilafat (36H)",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 19,
+      "title": "Martyrdom of Misam Tammar (r) (60H)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 20,
+      "title": "Martyrdom 2 Sons of Muslim ibne Aqil (a) (61H)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 21,
+      "title": "EID-E-MUBAHILA Victory of Islam Revelation of Ayat Ulhehr. Ali (a) gave alms in Ruku & Ayate Wilayah was revealed.",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 22,
+      "title": "Revelation of Surah Dahr praising Panjetan for giving bread in charity at the time of Iftar",
+      "category": "historical",
+      "icon": "📜"
+    },
+    {
+      "date": 25,
+      "title": "Incident of Hurrah Madina destroyed by Yazid ibne Muawiyah (L) (63H)",
+      "category": "historical",
+      "icon": "📜"
+    },
+    {
+      "date": 27,
+      "title": "Ayyam-e-Aza",
+      "category": "occasion",
+      "icon": "🕌"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "month": "April",
+  "events": [
+    {
+      "date": 5,
+      "title": "Battle of Hunnain (8H)",
+      "category": "historical",
+      "icon": "📜"
+    },
+    {
+      "date": 6,
+      "title": "Martyrdom of J. Hamza (a) (Prophet's Uncle) in Battle of Ohad (3H)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 7,
+      "title": "Yaume Gham: Holy Shrine of Imam Jaqi destroyed by Ibne Saud (L) (1344H)",
+      "category": "historical",
+      "icon": "📜"
+    },
+    {
+      "date": 8,
+      "title": "Battle of Khandaq (5H)",
+      "category": "historical",
+      "icon": "📜"
+    },
+    {
+      "date": 9,
+      "title": "Ghaibate Kubra of Imam Zamana (a) (329H)",
+      "category": "historical",
+      "icon": "📜"
+    },
+    {
+      "date": 14,
+      "title": "Martyrdom of Imam Sadiq (a) (148H)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 24,
+      "title": "Martyrdom of Imam Sadiq (a) (148H)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 28,
+      "title": "Birthday of Hazrat Abu Talib (a)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 29,
+      "title": "Birthday of J. Masuma Qum (s) (173H) & Peace Treaty of Hudaybiya (6H)",
+      "category": "wiladat",
+      "icon": "🎉"
+    }
+  ]
+}

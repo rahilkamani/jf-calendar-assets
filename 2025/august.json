@@ -1,0 +1,83 @@
+{
+  "month": "August",
+  "events": [
+    {
+      "date": 2,
+      "title": "Birthday of Imam Musa Kazim (a) (128H)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 3,
+      "title": "Death of J. Salman Farsi (r) (35H)",
+      "category": "historical",
+      "icon": "📜"
+    },
+    {
+      "date": 4,
+      "title": "Martyrdom Ammare bin Khuzema bin Sabit in Siffin (37H) & Battle of Nahrawan (40H)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 5,
+      "title": "30th Martyrdom of Imam Husain (a) & Martyrdom of Bibi Sakina (s) (62H)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 9,
+      "title": "Martyrdom of Mohammed ibne Abi Bakr (38H)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 12,
+      "title": "Martyrdom of Imam Ali Reza (a) (203H)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 15,
+      "title": "Arbaeen 40th Day Martyrdom of Imam Husain (a)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 20,
+      "title": "Hadees-e Kirtas Incident of Pen & Paper (11H)",
+      "category": "historical",
+      "icon": "📜"
+    },
+    {
+      "date": 23,
+      "title": "Martyrdom of Rasool-o-Khuda (s) (11H) & I. Hasan (a) (50H)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 25,
+      "title": "Martyrdom of Mohsin ibne Ali (a) (11H) & Prophet Migrated from Makkah to Madina (1H)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 26,
+      "title": "Peace Treaty between Imam Hasan (a) & Muawiyah (41H)",
+      "category": "historical",
+      "icon": "📜"
+    },
+    {
+      "date": 27,
+      "title": "Stone pelted on Ka'ba by Bani Umayyas",
+      "category": "historical",
+      "icon": "📜"
+    },
+    {
+      "date": 29,
+      "title": "Death of Janabe Masooma Qum (s) (201H)",
+      "category": "historical",
+      "icon": "📜"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "month": "October",
+  "events": [
+    {
+      "date": 1,
+      "title": "Birthday of Imam Hasan Askari (a) (232H)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 2,
+      "title": "NAMAZ became obligatory (1H)",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 3,
+      "title": "Birthday of Imam Hasan Askari (a) (232H)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 7,
+      "title": "J. Mukhtar (r) started revenge of Karbala in Kufa (66H)",
+      "category": "historical",
+      "icon": "📜"
+    },
+    {
+      "date": 28,
+      "title": "Birthday of Janabe Zainab (s) (6H)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 29,
+      "title": "Martyrdom of Jafar-e Tayyar (a) in battle of Mauta (8H)",
+      "category": "shahadat",
+      "icon": "⚫"
+    }
+  ]
+}
