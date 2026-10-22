@@ -1,0 +1,53 @@
+{
+  "month": "February",
+  "events": [
+    {
+      "date": 1,
+      "title": "Shaban",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 2,
+      "title": "Moon Under Scorpio",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 8,
+      "title": "Ramazan begins",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 18,
+      "title": "Death of Hazrat Khadija (s) (50AF)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 23,
+      "title": "Birthday of Imam Hasan (a) (3H)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 26,
+      "title": "Shab-e-Qadr",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 27,
+      "title": "Yaum-e-Be'asat",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 28,
+      "title": "Shab-e-Qadr",
+      "category": "occasion",
+      "icon": "🕌"
+    }
+  ]
+}

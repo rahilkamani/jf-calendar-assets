@@ -1,0 +1,47 @@
+{
+  "month": "April",
+  "events": [
+    {
+      "date": 1,
+      "title": "Thursday - Yearly Closed",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 6,
+      "title": "Birthday of Abbas (a)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 7,
+      "title": "Birthday of Imam Ali Akbar (a)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 8,
+      "title": "New Moon",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 9,
+      "title": "Birthday of Imam Hasan (a) (3H)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 19,
+      "title": "Birthday of Imam Ali (a) (40H)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 22,
+      "title": "Moon Under Scorpio",
+      "category": "occasion",
+      "icon": "🕌"
+    }
+  ]
+}

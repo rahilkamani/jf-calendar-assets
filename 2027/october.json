@@ -1,0 +1,41 @@
+{
+  "month": "October",
+  "events": [
+    {
+      "date": 1,
+      "title": "J-Awwal",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 2,
+      "title": "J-Awwal",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 3,
+      "title": "Moon Under Scorpio",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 14,
+      "title": "Martyrdom of Janabe Fatima Zahra (s)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 16,
+      "title": "Birthday of Imam Hasan Askari (a)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 31,
+      "title": "New Moon",
+      "category": "occasion",
+      "icon": "🕌"
+    }
+  ]
+}

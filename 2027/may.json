@@ -1,0 +1,53 @@
+{
+  "month": "May",
+  "events": [
+    {
+      "date": 1,
+      "title": "Labour Day",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 2,
+      "title": "Zil-Qadah begins",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 7,
+      "title": "Martyrdom of Imam Jafar Sadiq (a) (148H)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 8,
+      "title": "Wedding anniversary / Zil-Hijjah",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 17,
+      "title": "Eid-ul-Azha",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 19,
+      "title": "Birthday of Imam Ali (a)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 22,
+      "title": "Birthday of Imam Hasan (a)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 30,
+      "title": "Martyrdom of Muslim bin Aqil (a)",
+      "category": "shahadat",
+      "icon": "⚫"
+    }
+  ]
+}

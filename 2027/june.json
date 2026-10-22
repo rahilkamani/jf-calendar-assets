@@ -1,0 +1,41 @@
+{
+  "month": "June",
+  "events": [
+    {
+      "date": 1,
+      "title": "Zil-Hijjah",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 6,
+      "title": "Ayyam-e-Aza / Muharram (1449 Hijri)",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 7,
+      "title": "Muharram",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 14,
+      "title": "Ashura",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 17,
+      "title": "Ziyarat of Arbaeen",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 22,
+      "title": "Martyrdom of Imam Reza (a) (203H)",
+      "category": "shahadat",
+      "icon": "⚫"
+    }
+  ]
+}
