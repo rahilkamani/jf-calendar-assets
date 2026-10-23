@@ -1,0 +1,47 @@
+{
+  "month": "November",
+  "events": [
+    {
+      "date": 3,
+      "title": "Martyrdom of J. Fatema Zahra (s) (11H) (95-Days)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 13,
+      "title": "Death of J. Ummul Baneen, Mother of H. Abbas (a) (64H)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 20,
+      "title": "Birthday of Janabe Fatema Zahra (s) (46AF)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 21,
+      "title": "Death of J. Kulsum binte Ali (a) (62H)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 22,
+      "title": "O Allah! Cursed the 1st who was unjust to Mohammed & his progeny (a)",
+      "category": "historical",
+      "icon": "📜"
+    },
+    {
+      "date": 26,
+      "title": "Martyrdom of I. Ali Naqi (a) (254H)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 30,
+      "title": "Birthday of Imam Mohammed Baqir (a) (57H); Rajab begins",
+      "category": "wiladat",
+      "icon": "🎉"
+    }
+  ]
+}

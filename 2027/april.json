@@ -1,0 +1,23 @@
+{
+  "month": "April",
+  "events": [
+    {
+      "date": 7,
+      "title": "Birthday of Hazrat Abu Talib (a)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 9,
+      "title": "Birthday of J. Masuma Qum (s) (173H); Peace Treaty of Hudaibiya (6H); Ziqad'ah begins",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 19,
+      "title": "Birthday of Imam Ali Reza (a) (148H)",
+      "category": "wiladat",
+      "icon": "🎉"
+    }
+  ]
+}

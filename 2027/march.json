@@ -1,0 +1,35 @@
+{
+  "month": "March",
+  "events": [
+    {
+      "date": 1,
+      "title": "Martyrdom of Imam Ali (a) (40H)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 3,
+      "title": "Qur'an revealed upon Prophet Muhammad (s)",
+      "category": "historical",
+      "icon": "📜"
+    },
+    {
+      "date": 10,
+      "title": "Eid-ul-Fitr / Shawwal",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 17,
+      "title": "Yaume Gham: Holy Shrines in Jannatul Baqi destroyed by Ibne Saud (L) (1344H)",
+      "category": "historical",
+      "icon": "📜"
+    },
+    {
+      "date": 21,
+      "title": "Tahveel-e-Navroz 1:53 AM",
+      "category": "occasion",
+      "icon": "🕌"
+    }
+  ]
+}

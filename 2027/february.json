@@ -1,0 +1,29 @@
+{
+  "month": "February",
+  "events": [
+    {
+      "date": 9,
+      "title": "Ramazan begins",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 18,
+      "title": "Death of J. Khadijatul Kubra (s) (50AF)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 23,
+      "title": "Birthday of Imam Hasan (a) (3H)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 27,
+      "title": "Yaum-e-Zarbat — Imam Ali (a) wounded by Ibne Muljim (40H)",
+      "category": "shahadat",
+      "icon": "⚫"
+    }
+  ]
+}

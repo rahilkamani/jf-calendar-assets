@@ -1,0 +1,71 @@
+{
+  "month": "January",
+  "events": [
+    {
+      "date": 1,
+      "title": "O Allah! cursed the 4th who was unjust to Mohammed (s) and his progeny (a)",
+      "category": "historical",
+      "icon": "📜"
+    },
+    {
+      "date": 3,
+      "title": "Birthday of Ali Asgar (a) (60H)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 4,
+      "title": "Martyrdom of Imam Musa Kazim (a) (183H)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 5,
+      "title": "Death of H. Abu Talib (a) (50AF) — Shab-e-Meraj",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 6,
+      "title": "Yaum-e-Be'sat",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 7,
+      "title": "Imam Husain (a) left Madina for Karbala (60H)",
+      "category": "historical",
+      "icon": "📜"
+    },
+    {
+      "date": 10,
+      "title": "Birthday of Janabe Zainab (s) (5H)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 12,
+      "title": "Birthday of Imam Husain (a) (4H)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 14,
+      "title": "Birthday of Janabe Ali Akbar (a) (42H)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 16,
+      "title": "Birthday of Janabe Qasim (a) (47H)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 24,
+      "title": "Birthday of Imam Mahdi (a) (255H)",
+      "category": "wiladat",
+      "icon": "🎉"
+    }
+  ]
+}

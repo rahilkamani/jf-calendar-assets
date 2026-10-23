@@ -1,0 +1,77 @@
+{
+  "month": "December",
+  "events": [
+    {
+      "date": 6,
+      "title": "Birthday of Hazrat Abbas (a) (26H)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 9,
+      "title": "Birthday of Imam Mohammed Taqi (a) (195H)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 12,
+      "title": "Birthday of Hazrat Imam Ali (a) (30AF)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 14,
+      "title": "Martyrdom of Imam Sadiq (a) (148H)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 19,
+      "title": "Birthday of Janabe Sakina (s) (56H)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 21,
+      "title": "O Allah! Cursed the 4th who was unjust to Mohammed & his progeny (a)",
+      "category": "historical",
+      "icon": "📜"
+    },
+    {
+      "date": 23,
+      "title": "Birthday of Ali Asgar (a) (60H); Battle of Khaiber (7H)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 24,
+      "title": "Martyrdom of Imam Musa Kazim (a) (183H)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 25,
+      "title": "Death of H. Abu Talib (a) (50AF); Shab-e-Meraj",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 26,
+      "title": "Yaum-e-Be'Asat",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 27,
+      "title": "Imam Husain (a) left Madina for Karbala (60H)",
+      "category": "historical",
+      "icon": "📜"
+    },
+    {
+      "date": 30,
+      "title": "Birthday of Janabe Zainab (s) (5H)",
+      "category": "wiladat",
+      "icon": "🎉"
+    }
+  ]
+}

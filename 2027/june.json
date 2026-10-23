@@ -1,0 +1,35 @@
+{
+  "month": "June",
+  "events": [
+    {
+      "date": 1,
+      "title": "Zil-Hijjah",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 6,
+      "title": "Ayyam-e-Azaa; Muharram (1449 Hijri)",
+      "category": "occasion",
+      "icon": "⚫"
+    },
+    {
+      "date": 15,
+      "title": "Ashura — Martyrdom of Imam Husain (a) & his Companions (61H)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 17,
+      "title": "Ziyarat — 3rd day of Martyrdom of Imam Husain (a)",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 30,
+      "title": "Martyrdom of Imam Zainul Abedin (a) (95H)",
+      "category": "shahadat",
+      "icon": "⚫"
+    }
+  ]
+}

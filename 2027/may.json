@@ -1,0 +1,77 @@
+{
+  "month": "May",
+  "events": [
+    {
+      "date": 3,
+      "title": "Dahwul Arz — Creation of Land",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 7,
+      "title": "Martyrdom of Imam Mohammed Taqi (a) (220H)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 8,
+      "title": "Wedding Anniversary of Imam Ali (a) & Fatema Zahra (s) (2H); Zil-Hijjah begins",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 14,
+      "title": "Martyrdom of Imam Mohammed Baqir (a) (114H)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 16,
+      "title": "Yaume Arafah; Martyrdom of J. Muslim ibn Aqil (a) & J. Hani bin Urwah (a) (60H)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 17,
+      "title": "Eid-ul-Azha",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 19,
+      "title": "O Allah! Cursed the 3rd who was unjust to Mohammed & his progeny (a)",
+      "category": "historical",
+      "icon": "📜"
+    },
+    {
+      "date": 22,
+      "title": "Birthday of Imam Ali Naqi (a) (214H)",
+      "category": "wiladat",
+      "icon": "🎉"
+    },
+    {
+      "date": 23,
+      "title": "Martyrdom of Janabe Zainab (s) (62H)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 25,
+      "title": "Eid-e-Ghadeer — H. Prophet (s) announced the Khilafat of Imam Ali (a) (10H)",
+      "category": "occasion",
+      "icon": "🕌"
+    },
+    {
+      "date": 30,
+      "title": "Martyrdom of 2 Sons of Muslim ibn Aqil (a) (61H)",
+      "category": "shahadat",
+      "icon": "⚫"
+    },
+    {
+      "date": 31,
+      "title": "Eid-e-Mubahila — Victory of Truth",
+      "category": "occasion",
+      "icon": "🕌"
+    }
+  ]
+}
